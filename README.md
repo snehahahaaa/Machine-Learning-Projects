@@ -28,7 +28,7 @@ Steps followed:
 1. Open the project notebook in Google Colab
 2. Use the **Files** panel (left sidebar) to upload the dataset file (CSV)
 3. Load the dataset in the notebook using pandas, for example:
-   #```python
-   import pandas as pd
-   data = pd.read_csv('dataset_name.csv')
+   #python#
+   1. import pandas as pd
+   2. data = pd.read_csv('dataset_name.csv')
 
