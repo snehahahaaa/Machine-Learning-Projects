@@ -4,9 +4,6 @@
 Original file is located at
     https://colab.research.google.com/drive/1lqZEQnu9PvZpGNVuqJuFo6MUYAgaaBTn
 
-Importing the Libraries
-"""
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
